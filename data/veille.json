@@ -18,19 +18,19 @@
   ],
   "opensource": [
     {
-      "name": "Explore",
-      "category": "Open Source",
-      "description": "Projet en tendance sur la plateforme."
+      "name": "PostHog",
+      "category": "Product Analytics",
+      "description": "Plateforme d'analyse complète tout-en-un pour les développeurs."
     },
     {
-      "name": "Legal",
-      "category": "Open Source",
-      "description": "Projet en tendance sur la plateforme."
+      "name": "Umami",
+      "category": "Web Analytics",
+      "description": "Alternative à Google Analytics axée sur la vie privée et sans cookies."
     },
     {
-      "name": "🤖 AI & Machine Learning",
-      "category": "Open Source",
-      "description": "Projet en tendance sur la plateforme."
+      "name": "Plane",
+      "category": "Project Management",
+      "description": "Gestion de projet moderne et open-source (Alternative à Jira)."
     }
   ]
 }
