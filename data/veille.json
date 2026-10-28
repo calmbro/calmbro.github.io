@@ -1,6 +1,11 @@
 {
   "leaks": [
     {
+      "source": "CTS",
+      "date": "28 octobre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
       "source": "Alliance Police Nationale",
       "date": "24 octobre 2026",
       "description": "Nouvelle fuite de données répertoriée."
@@ -9,28 +14,23 @@
       "source": "Engie",
       "date": "23 octobre 2026",
       "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "La Compagnie des Sens",
-      "date": "23 octobre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
     }
   ],
   "opensource": [
     {
-      "name": "PostHog",
-      "category": "Product Analytics",
-      "description": "Plateforme d'analyse complète tout-en-un pour les développeurs."
+      "name": "Explore",
+      "category": "Open Source",
+      "description": "Projet en tendance sur la plateforme."
     },
     {
-      "name": "Umami",
-      "category": "Web Analytics",
-      "description": "Alternative à Google Analytics axée sur la vie privée et sans cookies."
+      "name": "Legal",
+      "category": "Open Source",
+      "description": "Projet en tendance sur la plateforme."
     },
     {
-      "name": "Plane",
-      "category": "Project Management",
-      "description": "Gestion de projet moderne et open-source (Alternative à Jira)."
+      "name": "🤖 AI & Machine Learning",
+      "category": "Open Source",
+      "description": "Projet en tendance sur la plateforme."
     }
   ]
 }
