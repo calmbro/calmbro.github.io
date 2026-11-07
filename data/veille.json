@@ -1,18 +1,18 @@
 {
   "leaks": [
     {
+      "source": "Beauty Success",
+      "date": "7 novembre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
+      "source": "Burda Style",
+      "date": "7 novembre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
       "source": "Delcampe",
       "date": "6 novembre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "Aqua Store",
-      "date": "5 novembre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "Bureau Vallée",
-      "date": "5 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
     }
   ],
