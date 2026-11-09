@@ -1,6 +1,11 @@
 {
   "leaks": [
     {
+      "source": "Fédération Française de Tennis de Table",
+      "date": "9 novembre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
       "source": "Beauty Success",
       "date": "7 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
@@ -8,11 +13,6 @@
     {
       "source": "Burda Style",
       "date": "7 novembre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "Delcampe",
-      "date": "6 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
     }
   ],
