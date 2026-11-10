@@ -18,17 +18,17 @@
   ],
   "opensource": [
     {
-      "name": "Explore",
-      "category": "Open Source",
-      "description": "Projet en tendance sur la plateforme."
-    },
-    {
-      "name": "Legal",
-      "category": "Open Source",
-      "description": "Projet en tendance sur la plateforme."
-    },
-    {
       "name": "🤖 AI & Machine Learning",
+      "category": "Open Source",
+      "description": "Projet en tendance sur la plateforme."
+    },
+    {
+      "name": "skyvern",
+      "category": "Open Source",
+      "description": "Projet en tendance sur la plateforme."
+    },
+    {
+      "name": "supervision",
       "category": "Open Source",
       "description": "Projet en tendance sur la plateforme."
     }
