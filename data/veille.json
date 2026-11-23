@@ -1,18 +1,18 @@
 {
   "leaks": [
     {
+      "source": "LWS",
+      "date": "23 novembre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
       "source": "Seazon",
       "date": "20 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
     },
     {
-      "source": "AlloBébé",
-      "date": "19 novembre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "Made in Bébé",
-      "date": "18 novembre 2026",
+      "source": "Delubac",
+      "date": "20 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
     }
   ],
