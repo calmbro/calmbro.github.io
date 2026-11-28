@@ -1,6 +1,11 @@
 {
   "leaks": [
     {
+      "source": "Frichti",
+      "date": "28 novembre 2026",
+      "description": "Nouvelle fuite de données répertoriée."
+    },
+    {
       "source": "Todoist",
       "date": "26 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
@@ -8,11 +13,6 @@
     {
       "source": "Toulouse MEETT",
       "date": "26 novembre 2026",
-      "description": "Nouvelle fuite de données répertoriée."
-    },
-    {
-      "source": "Interservices",
-      "date": "24 novembre 2026",
       "description": "Nouvelle fuite de données répertoriée."
     }
   ],
